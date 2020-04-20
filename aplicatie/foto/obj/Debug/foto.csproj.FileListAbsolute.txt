@@ -1,0 +1,216 @@
+C:\Users\Mihaela Capangi\Desktop\foto\foto\bin\Debug\foto.exe.config
+C:\Users\Mihaela Capangi\Desktop\foto\foto\bin\Debug\foto.exe
+C:\Users\Mihaela Capangi\Desktop\foto\foto\bin\Debug\foto.pdb
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.csprojResolveAssemblyReference.cache
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.frmMain.resources
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.Properties.Resources.resources
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.csproj.GenerateResource.Cache
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.exe
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.pdb
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.frmTehnici.resources
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.frmCalitati.resources
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.frmCeEste.resources
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.frmPuzzle.resources
+C:\Users\Mihaela Capangi\Desktop\foto\foto\obj\Debug\foto.frmTest.resources
+F:\foto\foto\bin\Debug\foto.exe.config
+F:\foto\foto\obj\Debug\foto.exe
+F:\foto\foto\obj\Debug\foto.pdb
+F:\foto\foto\bin\Debug\foto.exe
+F:\foto\foto\bin\Debug\foto.pdb
+F:\foto\foto\obj\Debug\foto.csprojResolveAssemblyReference.cache
+F:\foto\foto\obj\Debug\foto.frmCalitati.resources
+F:\foto\foto\obj\Debug\foto.frmPuzzle.resources
+F:\foto\foto\obj\Debug\foto.frmTehnici.resources
+F:\foto\foto\obj\Debug\foto.frmCeEste.resources
+F:\foto\foto\obj\Debug\foto.frmMain.resources
+F:\foto\foto\obj\Debug\foto.frmTest.resources
+F:\foto\foto\obj\Debug\foto.Properties.Resources.resources
+F:\foto\foto\obj\Debug\foto.csproj.GenerateResource.Cache
+F:\foto\foto\obj\Debug\foto.frm1900.resources
+F:\foto\foto\obj\Debug\foto.frm1994.resources
+F:\foto\foto\obj\Debug\foto.frm2000.resources
+F:\foto\foto\obj\Debug\foto.frmAparitia1.resources
+F:\foto\foto\obj\Debug\foto.frmAparitia2.resources
+F:\foto\foto\obj\Debug\foto.frmArta1.resources
+F:\foto\foto\obj\Debug\foto.frmArta3.resources
+F:\foto\foto\obj\Debug\foto.frmArta4.resources
+L:\foto\foto\bin\Debug\foto.exe.config
+L:\foto\foto\obj\Debug\foto.exe
+L:\foto\foto\obj\Debug\foto.pdb
+L:\foto\foto\bin\Debug\foto.exe
+L:\foto\foto\bin\Debug\foto.pdb
+L:\foto\foto\obj\Debug\foto.csprojResolveAssemblyReference.cache
+L:\foto\foto\obj\Debug\foto.frm1900.resources
+L:\foto\foto\obj\Debug\foto.frm1994.resources
+L:\foto\foto\obj\Debug\foto.frm2000.resources
+L:\foto\foto\obj\Debug\foto.frmAparitia1.resources
+L:\foto\foto\obj\Debug\foto.frmAparitia2.resources
+L:\foto\foto\obj\Debug\foto.frmArta1.resources
+L:\foto\foto\obj\Debug\foto.frmArta3.resources
+L:\foto\foto\obj\Debug\foto.frmArta4.resources
+L:\foto\foto\obj\Debug\foto.frmCalitati.resources
+L:\foto\foto\obj\Debug\foto.frmPuzzle.resources
+L:\foto\foto\obj\Debug\foto.frmTehnici.resources
+L:\foto\foto\obj\Debug\foto.frmCeEste.resources
+L:\foto\foto\obj\Debug\foto.frmMain.resources
+L:\foto\foto\obj\Debug\foto.frmTest.resources
+L:\foto\foto\obj\Debug\foto.Properties.Resources.resources
+L:\foto\foto\obj\Debug\foto.csproj.GenerateResource.Cache
+L:\foto\foto\obj\Debug\foto.frmArta2.resources
+L:\foto\foto\obj\Debug\foto.frmCuriozitati.resources
+L:\foto\foto\obj\Debug\foto.frmBibliografie.resources
+F:\foto\foto\obj\Debug\foto.frmArta2.resources
+F:\foto\foto\obj\Debug\foto.frmBibliografie.resources
+F:\foto\foto\obj\Debug\foto.frmCuriozitati.resources
+F:\Site Info\foto\foto\bin\Debug\foto.exe.config
+F:\Site Info\foto\foto\obj\Debug\foto.exe
+F:\Site Info\foto\foto\obj\Debug\foto.pdb
+F:\Site Info\foto\foto\bin\Debug\foto.exe
+F:\Site Info\foto\foto\bin\Debug\foto.pdb
+F:\Site Info\foto\foto\obj\Debug\foto.csprojResolveAssemblyReference.cache
+F:\Site Info\foto\foto\obj\Debug\foto.frm1900.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frm1994.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frm2000.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmAparitia1.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmAparitia2.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmArta1.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmArta2.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmArta3.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmArta4.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmBibliografie.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmCalitati.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmCuriozitati.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmPuzzle.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmTehnici.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmCeEste.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmMain.resources
+F:\Site Info\foto\foto\obj\Debug\foto.frmTest.resources
+F:\Site Info\foto\foto\obj\Debug\foto.Properties.Resources.resources
+F:\Site Info\foto\foto\obj\Debug\foto.csproj.GenerateResource.Cache
+L:\arta fotografica\aplicatie\foto\bin\Debug\foto.exe.config
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.exe
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.pdb
+L:\arta fotografica\aplicatie\foto\bin\Debug\foto.exe
+L:\arta fotografica\aplicatie\foto\bin\Debug\foto.pdb
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.csprojResolveAssemblyReference.cache
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frm1900.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frm1994.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frm2000.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmAparitia1.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmAparitia2.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta1.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta2.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta3.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta4.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmBibliografie.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmCalitati.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmCuriozitati.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmPuzzle.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmTehnici.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmCeEste.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmMain.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmTest.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.Properties.Resources.resources
+L:\arta fotografica\aplicatie\foto\obj\Debug\foto.csproj.GenerateResource.Cache
+F:\arta fotografica\aplicatie\foto\bin\Debug\foto.exe.config
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.exe
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.pdb
+F:\arta fotografica\aplicatie\foto\bin\Debug\foto.exe
+F:\arta fotografica\aplicatie\foto\bin\Debug\foto.pdb
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.csprojResolveAssemblyReference.cache
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frm1900.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frm1994.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frm2000.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmAparitia1.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmAparitia2.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta1.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta2.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta3.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta4.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmBibliografie.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmCalitati.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmCuriozitati.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmPuzzle.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmTehnici.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmCeEste.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmMain.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmTest.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.Properties.Resources.resources
+F:\arta fotografica\aplicatie\foto\obj\Debug\foto.csproj.GenerateResource.Cache
+I:\arta fotografica\aplicatie\foto\bin\Debug\foto.exe.config
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.exe
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.pdb
+I:\arta fotografica\aplicatie\foto\bin\Debug\foto.exe
+I:\arta fotografica\aplicatie\foto\bin\Debug\foto.pdb
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.csprojResolveAssemblyReference.cache
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frm1900.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frm1994.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frm2000.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmAparitia1.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmAparitia2.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta1.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta2.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta3.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmArta4.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmBibliografie.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmCalitati.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmCuriozitati.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmPuzzle.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmTehnici.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmCeEste.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmMain.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.frmTest.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.Properties.Resources.resources
+I:\arta fotografica\aplicatie\foto\obj\Debug\foto.csproj.GenerateResource.Cache
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\bin\Debug\foto.exe.config
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\bin\Debug\foto.exe
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\bin\Debug\foto.pdb
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.csprojAssemblyReference.cache
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frm1900.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frm1994.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frm2000.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmAparitia1.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmAparitia2.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmArta1.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmArta2.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmArta3.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmArta4.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmBibliografie.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmCalitati.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmCuriozitati.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmPuzzle.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmTehnici.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmCeEste.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmMain.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmTest.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.Properties.Resources.resources
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.csproj.GenerateResource.cache
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.csproj.CoreCompileInputs.cache
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.exe
+E:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.pdb
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\bin\Debug\foto.exe.config
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\bin\Debug\foto.exe
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\bin\Debug\foto.pdb
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.csprojAssemblyReference.cache
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frm1900.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frm1994.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frm2000.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmAparitia1.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmAparitia2.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmArta1.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmArta2.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmArta3.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmArta4.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmBibliografie.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmCalitati.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmCuriozitati.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmPuzzle.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmTehnici.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmCeEste.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmMain.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.frmTest.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.Properties.Resources.resources
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.csproj.GenerateResource.cache
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.csproj.CoreCompileInputs.cache
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.exe
+F:\Atestat 2018-clasa a 12-a\Atestat informatica-Arta Fotografica Pop Ionela 12A\aplicatie\foto\obj\Debug\foto.pdb
