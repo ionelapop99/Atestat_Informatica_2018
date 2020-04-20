@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CAD6A40E-1369-4A85-AC25-54B3D3C1036A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>foto</RootNamespace>
+    <AssemblyName>foto</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm1900.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm1900.Designer.cs">
+      <DependentUpon>frm1900.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm1994.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm1994.Designer.cs">
+      <DependentUpon>frm1994.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm2000.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm2000.Designer.cs">
+      <DependentUpon>frm2000.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAparitia1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAparitia1.Designer.cs">
+      <DependentUpon>frmAparitia1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAparitia2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAparitia2.Designer.cs">
+      <DependentUpon>frmAparitia2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArta1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArta1.Designer.cs">
+      <DependentUpon>frmArta1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArta2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArta2.Designer.cs">
+      <DependentUpon>frmArta2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArta3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArta3.Designer.cs">
+      <DependentUpon>frmArta3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArta4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArta4.Designer.cs">
+      <DependentUpon>frmArta4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBibliografie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBibliografie.Designer.cs">
+      <DependentUpon>frmBibliografie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalitati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalitati.Designer.cs">
+      <DependentUpon>frmCalitati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCuriozitati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCuriozitati.Designer.cs">
+      <DependentUpon>frmCuriozitati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPixWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPixWord.Designer.cs">
+      <DependentUpon>frmPixWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPuzzle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPuzzle.Designer.cs">
+      <DependentUpon>frmPuzzle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTehnici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTehnici.Designer.cs">
+      <DependentUpon>frmTehnici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCeEste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCeEste.Designer.cs">
+      <DependentUpon>frmCeEste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTest.Designer.cs">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeste.Designer.cs">
+      <DependentUpon>frmTeste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="variabile.cs" />
+    <EmbeddedResource Include="frm1900.resx">
+      <DependentUpon>frm1900.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm1994.resx">
+      <DependentUpon>frm1994.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm2000.resx">
+      <DependentUpon>frm2000.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAparitia1.resx">
+      <DependentUpon>frmAparitia1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAparitia2.resx">
+      <DependentUpon>frmAparitia2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArta1.resx">
+      <DependentUpon>frmArta1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArta2.resx">
+      <DependentUpon>frmArta2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArta3.resx">
+      <DependentUpon>frmArta3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArta4.resx">
+      <DependentUpon>frmArta4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBibliografie.resx">
+      <DependentUpon>frmBibliografie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalitati.resx">
+      <DependentUpon>frmCalitati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCuriozitati.resx">
+      <DependentUpon>frmCuriozitati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPuzzle.resx">
+      <DependentUpon>frmPuzzle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTehnici.resx">
+      <DependentUpon>frmTehnici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCeEste.resx">
+      <DependentUpon>frmCeEste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTest.resx">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
